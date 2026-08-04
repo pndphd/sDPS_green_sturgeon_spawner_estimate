@@ -1,4 +1,4 @@
-# Green Sturgeon Southern Distinct Population Segmant Spawner Survey Results
+# Green Sturgeon Southern Distinct Population Segment Spawner Survey Results
 
 This repository contains outputs form the annual spawner survey of the southern distinct population segment of green sturgeon. There are 3 outputs: a graphs showing the estimates of spawners both corrected and uncorected, a data summaries for both corrected and uncorected estimates, and the Bayesian postieror date for estimates of spawners both corrected and uncorrected.
 
